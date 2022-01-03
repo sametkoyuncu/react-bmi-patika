@@ -4,9 +4,9 @@ const BmiContext = createContext()
 
 export const BmiProvider = ({ children }) => {
   const [username, setUsername] = useState(
-    localStorage.getItem('username') || 'Ziyaretçi'
+    localStorage.getItem('username') || ''
   )
-  const [bmi, setBmi] = useState(localStorage.getItem('bmi') || null) // vücut kitle endeksi
+  const [bmi, setBmi] = useState(localStorage.getItem('bmi') || 0) // vücut kitle endeksi
 
   useEffect(() => {
     localStorage.setItem('username', username)

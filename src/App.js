@@ -10,7 +10,7 @@ function App() {
     <Router>
       <div className="w-full h-screen py-20 px-10 bg-sky-200">
         <Navbar />
-        <div className="container mt-5 bg-white shadow-lg mx-auto p-10 rounded-lg">
+        <div className="container mt-5 bg-white shadow-lg mx-auto p-5 rounded-lg">
           <Routes>
             <Route path="/" exact element={<Home />} />
             <Route path="/what-is-bmi" element={<WhatIsBmi />} />
