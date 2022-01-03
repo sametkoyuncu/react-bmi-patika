@@ -20,7 +20,7 @@ function Classification() {
         </li>
         <li>
           25 ile 29, 9 kg/m. arasında olanlar:{' '}
-          <span className="text-yellow-400 font-bold">Fazla kilolu</span>
+          <span className="text-yellow-400 font-bold">Fazla Kilolu</span>
         </li>
         <li>
           30 ile 39, 9 kg/m. arasında olanlar:{' '}
