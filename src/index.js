@@ -3,10 +3,13 @@ import ReactDOM from 'react-dom'
 import './index.css'
 import App from './App'
 import reportWebVitals from './reportWebVitals'
+import { BmiProvider } from './context/BmiContext'
 
 ReactDOM.render(
   <React.StrictMode>
-    <App />
+    <BmiProvider>
+      <App />
+    </BmiProvider>
   </React.StrictMode>,
   document.getElementById('root')
 )
