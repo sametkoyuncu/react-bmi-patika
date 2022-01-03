@@ -11,5 +11,5 @@ Patika.dev'deki frontend projeleri arasında yer alan vücut kitle indeksi hesap
 
 ### Ekran Görüntüleri
 
-![Anasayfa](http://localhost:3000)
-![Sınıflandırmalar](http://localhost:3000)
+![Anasayfa](https://github.com/sametkoyuncu/react-bmi-patika/blob/master/screenshots/anasayfa.png?raw=true)
+![Sınıflandırmalar](https://github.com/sametkoyuncu/react-bmi-patika/blob/master/screenshots/s%C4%B1n%C4%B1fland%C4%B1rmalar.png?raw=true)
