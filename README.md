@@ -1,7 +1,7 @@
 # Vücut Kitle İndeksi Hesaplama Sitesi
 
 Patika.dev'deki frontend projeleri arasında yer alan vücut kitle indeksi hesaplama sitesi.
-[Siteyi Görüntüleyin](https://github.com/facebook/create-react-app).
+[Siteyi Görüntüleyin](https://calculate-bmi-react.netlify.app/).
 
 ## Sayfalar
 
